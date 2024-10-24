@@ -1,9 +1,5 @@
 const a = 4;
 const b = 4;
-let c;
+let c = a + b;
 
-c = a + b;
-
-
-
-console.log("C =", c);
+console.log("C = ", c);
